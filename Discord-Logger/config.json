@@ -1,7 +1,7 @@
 {
   "serverID": "server id here",
   "webhook_url": "url here",
-  "owner_id", "your id here",
+  "owner_id": "your id here",
   "webhook_avatar_url": "can be empty or url",
   "webhook_color_url": "can be empty or an hex color",
   "webhook_title_url": "can be empty or string"
